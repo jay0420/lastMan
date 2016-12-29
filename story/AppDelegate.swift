@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  story
 //
-//  Created by 王亚杰 on 2016/11/21.
-//  Copyright © 2016年 王亚杰. All rights reserved.
+//  Created by Jack Wang on 2016/11/21.
+//  Copyright © 2016年 Jack Wang. All rights reserved.
 //
 
 import UIKit
